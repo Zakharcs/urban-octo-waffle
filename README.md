@@ -2,4 +2,4 @@
 
 ## editinig file
 
-its a markdown file in s repositiry.
+its a markdown file in its repositiry.
